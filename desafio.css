@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    font-family: Anton;
+}
+h1 , h2 {
+    color: greenyellow;
+    text-align: left;
+    width: 40%;
+    
+    
+
+}
+
+p  {
+    color:white;
+    text-align: left;
+    width: 40%;
+    
+}
+img{
+    position: fixed;
+    top: 100px;
+    right: 50px;
+    width: 400px; 
+    
+
+}
